@@ -10,3 +10,6 @@ Englise
 * digital
 * word
 * space
+* document		['dɒkjumәnt]	n.【计】 文档
+* summary		['sʌmәri]		n. 【计】 摘要; 概要
+* description	[di'skripʃәn]	n. 描述
